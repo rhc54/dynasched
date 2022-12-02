@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#
+# Copyright (c) 2022      Nanook Consulting. All rights reserved
+#
 
 from pmix import *
 import signal, time
